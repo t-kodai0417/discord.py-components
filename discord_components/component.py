@@ -1,6 +1,6 @@
 from typing import Optional, Union, List, Iterable
 
-from discord import PartialEmoji, Emoji, InvalidArgument
+from discord import PartialEmoji, Emoji
 
 from uuid import uuid1
 from enum import IntEnum
