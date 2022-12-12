@@ -4,7 +4,6 @@ from discord import (
     User,
     Embed,
     AllowedMentions,
-    InvalidArgument,
     Guild,
     NotFound,
     Member,
